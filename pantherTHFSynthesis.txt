@@ -1,0 +1,10 @@
+
+ECOLI|EnsemblGenome=BAB96719|UniProtKB=P26281	P26281	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase;folK;PTN001841199;orthologs	2-AMINO-4-HYDROXY-6-HYDROXYMETHYLDIHYDROPTERIDINE PYROPHOSPHOKINASE (PTHR43071:SF1)	kinase(PC00137)	Escherichia coli
+ECOLI|EnsemblGenome=BAE76630|UniProtKB=P0A6T5	P0A6T5	GTP cyclohydrolase 1;folE;PTN001339695;orthologs	GTP CYCLOHYDROLASE 1 (PTHR11109:SF7)	hydrolase(PC00121)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77109|UniProtKB=P0AC16	P0AC16	Dihydroneopterin aldolase;folB;PTN001463530;orthologs	DIHYDRONEOPTERIN ALDOLASE 1-RELATED (PTHR42844:SF1)	aldolase(PC00044)	Escherichia coli
+ECOLI|EnsemblGenome=BAA16164|UniProtKB=P08192	P08192	Dihydrofolate synthase/folylpolyglutamate synthase;folC;PTN000124108;orthologs	DIHYDROFOLATE SYNTHETASE-RELATED (PTHR11136:SF0)	ligase(PC00142)	Escherichia coli
+ECOLI|EnsemblGenome=BAA36100|UniProtKB=P37051	P37051	Formyltetrahydrofolate deformylase;purU;PTN001314998;orthologs	FORMYLTETRAHYDROFOLATE DEFORMYLASE 2, MITOCHONDRIAL (PTHR42706:SF1)	hydrolase(PC00121)	Escherichia coli
+ECOLI|EnsemblGenome=BAB96616|UniProtKB=P0ABQ4	P0ABQ4	Dihydrofolate reductase;folA;PTN001356377;orthologs	DIHYDROFOLATE REDUCTASE (PTHR48069:SF3)	reductase(PC00198)	Escherichia coli
+ECOLI|EnsemblGenome=BAE76896|UniProtKB=P0A884	P0A884	Thymidylate synthase;thyA;PTN000900110;orthologs	THYMIDYLATE SYNTHASE (PTHR11548:SF9)	methyltransferase(PC00155)	Escherichia coli
+ECOLI|EnsemblGenome=BAA16140|UniProtKB=P0AC19	P0AC19	Dihydroneopterin triphosphate 2'-epimerase;folX;PTN000468646;orthologs	DIHYDRONEOPTERIN ALDOLASE 1-RELATED (PTHR42844:SF1)	aldolase(PC00044)	Escherichia coli
+ECOLI|EnsemblGenome=BAA16388|UniProtKB=P08179	P08179	Phosphoribosylglycinamide formyltransferase;purN;PTN000829063;orthologs	PHOSPHORIBOSYLGLYCINAMIDE FORMYLTRANSFERASE (PTHR43369:SF2)	transferase(PC00220)	Escherichia coli

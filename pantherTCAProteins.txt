@@ -1,0 +1,10 @@
+
+ECOLI|EnsemblGenome=BAA35467|UniProtKB=P30178	P30178	Hydroxycarboxylate dehydrogenase B;hcxB;PTN000120182;orthologs	HYDROXYCARBOXYLATE DEHYDROGENASE B-RELATED (PTHR11091:SF0)	oxidoreductase(PC00176)	Escherichia coli
+ECOLI|EnsemblGenome=BAA35435|UniProtKB=P75764	P75764	Uncharacterized protein YbhJ;ybhJ;PTN000186621;orthologs	ACONITATE HYDRATASE, MITOCHONDRIAL (PTHR43160:SF3)	hydratase(PC00120)	Escherichia coli
+ECOLI|EnsemblGenome=BAE76295|UniProtKB=P77555	P77555	Ureidoglycolate dehydrogenase (NAD(+));allD;PTN000120191;orthologs	HYDROXYCARBOXYLATE DEHYDROGENASE B-RELATED (PTHR11091:SF0)	oxidoreductase(PC00176)	Escherichia coli
+ECOLI|EnsemblGenome=BAA35395|UniProtKB=P0AGE9	P0AGE9	Succinate--CoA ligase [ADP-forming] subunit alpha;sucD;PTN000874182;orthologs	SUCCINATE--COA LIGASE [ADP/GDP-FORMING] SUBUNIT ALPHA, MITOCHONDRIAL (PTHR11117:SF2)	ligase(PC00142)	Escherichia coli
+ECOLI|EnsemblGenome=BAE78157|UniProtKB=P0AC47	P0AC47	Fumarate reductase iron-sulfur subunit;frdB;PTN000938244;orthologs	FUMARATE REDUCTASE IRON-SULFUR SUBUNIT (PTHR43551:SF2)	dehydrogenase(PC00092)	Escherichia coli
+ECOLI|EnsemblGenome=BAA35388|UniProtKB=P69054	P69054	Succinate dehydrogenase cytochrome b556 subunit;sdhC;PTN000104722;orthologs	SUCCINATE DEHYDROGENASE CYTOCHROME B560 SUBUNIT, MITOCHONDRIAL (PTHR10978:SF5)	dehydrogenase(PC00092)	Escherichia coli
+ECOLI|EnsemblGenome=BAA15349|UniProtKB=P05042	P05042	Fumarate hydratase class II;fumC;PTN000154580;orthologs	FUMARATE HYDRATASE, MITOCHONDRIAL (PTHR11444:SF1)	lyase(PC00144)	Escherichia coli
+ECOLI|EnsemblGenome=BAA35392|UniProtKB=P0AFG3	P0AFG3	2-oxoglutarate dehydrogenase E1 component;sucA;PTN001292294;orthologs	2-OXOGLUTARATE DEHYDROGENASE E1 COMPONENT DHKTD1, MITOCHONDRIAL-RELATED (PTHR23152:SF4)	dehydrogenase(PC00092)	Escherichia coli
+ECOLI|EnsemblGenome=BAA35384|UniProtKB=P0ABH7	P0ABH7	Citrate synthase;gltA;PTN000921833;orthologs	CITRATE SYNTHASE (PTHR42871:SF1)	transferase(PC00220)	Escherichia coli

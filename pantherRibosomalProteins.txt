@@ -1,0 +1,26 @@
+
+ECOLI|EnsemblGenome=BAE77997|UniProtKB=P0AG44	50S ribosomal protein L17;rplQ;PTN000373856;orthologs	39S RIBOSOMAL PROTEIN L17, MITOCHONDRIAL (PTHR14413:SF16)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77981|UniProtKB=P0ADY3	50S ribosomal protein L14;rplN;PTN000205324;orthologs	54S RIBOSOMAL PROTEIN L38, MITOCHONDRIAL (PTHR11761:SF3)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77335|UniProtKB=P0A7J3	50S ribosomal protein L10;rplJ;PTN000169225;orthologs	39S RIBOSOMAL PROTEIN L10, MITOCHONDRIAL (PTHR11560:SF8)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77975|UniProtKB=P0A7U3	30S ribosomal protein S19;rpsS;PTN000223058;orthologs	37S RIBOSOMAL PROTEIN S19, MITOCHONDRIAL (PTHR11880:SF8)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77995|UniProtKB=P0A7V8	30S ribosomal protein S4;rpsD;PTN000216668;orthologs	37S RIBOSOMAL PROTEIN NAM9, MITOCHONDRIAL (PTHR11831:SF4)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAA35655|UniProtKB=P0AG67	30S ribosomal protein S1;rpsA;PTN000076752;orthologs	30S RIBOSOMAL PROTEIN S1 (PTHR10724:SF13)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77985|UniProtKB=P0A7W7	30S ribosomal protein S8;rpsH;PTN000204883;orthologs	37S RIBOSOMAL PROTEIN S8, MITOCHONDRIAL (PTHR11758:SF4)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77273|UniProtKB=P0A7X3	30S ribosomal protein S9;rpsI;PTN000490986;orthologs	28S RIBOSOMAL PROTEIN S9, MITOCHONDRIAL (PTHR21569:SF1)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAA16494|UniProtKB=P0A7T3	30S ribosomal protein S16;rpsP;PTN000308823;orthologs	30S RIBOSOMAL PROTEIN S16, CHLOROPLASTIC (PTHR12919:SF20)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77656|UniProtKB=P0A7N9	50S ribosomal protein L33;rpmG;PTN000391354;orthologs	54S RIBOSOMAL PROTEIN L39, MITOCHONDRIAL (PTHR15238:SF1)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAA15484|UniProtKB=P0A7Q1	50S ribosomal protein L35;rpmI;PTN002119336;orthologs	54S RIBOSOMAL PROTEIN BL35M (PTHR33343:SF1)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77984|UniProtKB=P0AG59	30S ribosomal protein S14;rpsN;PTN000457071;orthologs	28S RIBOSOMAL PROTEIN S14, MITOCHONDRIAL (PTHR19836:SF19)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77979|UniProtKB=P0A7M6	50S ribosomal protein L29;rpmC;PTN000099543;orthologs	50S RIBOSOMAL PROTEIN L29, CHLOROPLASTIC (PTHR10916:SF0)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77988|UniProtKB=P0A7W1	30S ribosomal protein S5;rpsE;PTN000346936;orthologs	37S RIBOSOMAL PROTEIN S5, MITOCHONDRIAL (PTHR13718:SF61)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77977|UniProtKB=P0A7V3	30S ribosomal protein S3;rpsC;PTN000205183;orthologs	30S RIBOSOMAL PROTEIN S3, CHLOROPLASTIC (PTHR11760:SF19)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE76650|UniProtKB=P68919	50S ribosomal protein L25;rplY;PTN002116560;orthologs	RIBOSOMAL PROTEIN L25_GLN-TRNA SYNTHETASE, ANTI-CODON-BINDING DOMAIN-CONTAINING PROTEIN (PTHR33284:SF1)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77993|UniProtKB=P0A7S9	30S ribosomal protein S13;rpsM;PTN000093382;orthologs	37S RIBOSOMAL PROTEIN SWS2, MITOCHONDRIAL (PTHR10871:SF1)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77980|UniProtKB=P0AG63	30S ribosomal protein S17;rpsQ;PTN000078672;orthologs	37S RIBOSOMAL PROTEIN S17, MITOCHONDRIAL (PTHR10744:SF1)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAB96593|UniProtKB=P0A7U7	30S ribosomal protein S20;rpsT;PTN002122476;orthologs	30S RIBOSOMAL PROTEIN S20, CHLOROPLASTIC (PTHR33398:SF1)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77973|UniProtKB=P0ADZ0	50S ribosomal protein L23;rplW;PTN000178889;orthologs	RIBOSOMAL_L23EN DOMAIN-CONTAINING PROTEIN (PTHR11620:SF2)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77970|UniProtKB=P0A7R5	30S ribosomal protein S10;rpsJ;PTN000193644;orthologs	37S RIBOSOMAL PROTEIN S10, MITOCHONDRIAL (PTHR11700:SF9)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77976|UniProtKB=P61175	50S ribosomal protein L22;rplV;PTN000337511;orthologs	50S RIBOSOMAL PROTEIN L22, CHLOROPLASTIC (PTHR13501:SF10)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77983|UniProtKB=P62399	50S ribosomal protein L5;rplE;PTN000242186;orthologs	54S RIBOSOMAL PROTEIN L7, MITOCHONDRIAL (PTHR11994:SF4)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAA16481|UniProtKB=P0AD49	Ribosome-associated inhibitor A;raiA;PTN002114399;orthologs	RIBOSOME-ASSOCIATED INHIBITOR A (PTHR33231:SF3)	ribosomal protein(PC00202)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77337|UniProtKB=P0A7J7	50S ribosomal protein L11;rplK;PTN000184221;orthologs	39S RIBOSOMAL PROTEIN L11, MITOCHONDRIAL (PTHR11661:SF1)	ribosomal protein(PC00202)	Escherichia coli

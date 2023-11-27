@@ -1,0 +1,8 @@
+
+ECOLI|EnsemblGenome=BAA15576|UniProtKB=P0A9B2	P0A9B2	Glyceraldehyde-3-phosphate dehydrogenase A;gapA;PTN000851361;orthologs	GLYCERALDEHYDE-3-PHOSPHATE DEHYDROGENASE-RELATED (PTHR10836:SF76)	dehydrogenase(PC00092)	Escherichia coli
+ECOLI|EnsemblGenome=BAE76990|UniProtKB=P0A799	P0A799	Phosphoglycerate kinase;pgk;PTN000892300;orthologs	PHOSPHOGLYCERATE KINASE 1, CHLOROPLASTIC-RELATED (PTHR11406:SF23)	carbohydrate kinase(PC00065)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77394|UniProtKB=P0A796	P0A796	ATP-dependent 6-phosphofructokinase isozyme 1;pfkA;PTN001008855;orthologs	ATP-DEPENDENT 6-PHOSPHOFRUCTOKINASE, MUSCLE TYPE (PTHR13697:SF4)	carbohydrate kinase(PC00065)	Escherichia coli
+ECOLI|EnsemblGenome=BAE78027|UniProtKB=P0A6T1	P0A6T1	Glucose-6-phosphate isomerase;pgi;PTN000895252;orthologs	GLUCOSE-6-PHOSPHATE ISOMERASE (PTHR11469:SF1)	isomerase(PC00135)	Escherichia coli
+ECOLI|EnsemblGenome=BAE76853|UniProtKB=P0A6P9	P0A6P9	Enolase;eno;PTN000935188;orthologs	ENOLASE (PTHR11902:SF1)	lyase(PC00144)	Escherichia coli
+ECOLI|EnsemblGenome=BAE77391|UniProtKB=P0A858	P0A858	Triosephosphate isomerase;tpiA;PTN001079909;orthologs	TRIOSEPHOSPHATE ISOMERASE (PTHR21139:SF2)	isomerase(PC00135)	Escherichia coli
+ECOLI|EnsemblGenome=BAA35417|UniProtKB=P62707	P62707	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase;gpmA;PTN002630922;orthologs	PHOSPHOGLYCERATE MUTASE (PTHR11931:SF0)	mutase(PC00160)	Escherichia coli
